@@ -1,0 +1,143 @@
+.middle {
+    height: 850px;
+    background-image: url(./Middle.jpg);
+    background-size: cover;
+    object-fit: contain;
+}
+
+.Main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3.5vw;
+    width: 55.5vw;
+    margin-left: 22vw;
+    justify-content: space-between;
+}
+
+.Main-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.Main-left-down {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15vw;
+}
+
+.middle-para1 {
+    width: 416.49px;
+    height: 44px;
+    left: 0px;
+    top: 0px;
+    font-family: DM Serif Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+    text-align: left;
+}
+
+.middle-para2 {
+    width: 354.98px;
+    height: 130px;
+    left: 0px;
+    top: 52px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.109091px;
+    color: #131255;
+    text-align: left;
+}
+
+.middle-para3 {
+    width: 274.14px;
+    height: 88px;
+    margin-left: 2vw;
+    font-family: DM Serif Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2vw;
+    text-align: right;
+    letter-spacing: 0.3px;
+    color: #000000;
+}
+
+.middle-para4 {
+    width: 302.26px;
+    height: 104px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: right;
+    letter-spacing: 0.109091px;
+    color: #131255;
+}
+
+.text4 {
+    width: 205.61px;
+    height: 26px;
+    left: 47.16px;
+    top: 226px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.109091px;
+    color: #131255;
+}
+
+.bn2 {
+    width: 172px;
+    height: 41px;
+    left: 0px;
+    top: 162px;
+    background: #FFF493;
+    border-radius: 6px
+}
+
+.text5 {
+    width: 205.61px;
+    height: 26px;
+    left: 47.16px;
+    top: 226px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.109091px;
+    color: #131255;
+}
+
+.bn3 {
+    width: 302.26px;
+    height: 41px;
+    left: -0.29px;
+    top: 218px;
+    background: #FFF493;
+    border-radius: 6px
+}
+
+.picture2 {
+    width: 347.95px;
+    height: 297px;
+    display: flex;
+}
+
+.picture3 {
+    width: 354.98px;
+    height: 263px;
+    left: 0px;
+    top: 0px;
+}

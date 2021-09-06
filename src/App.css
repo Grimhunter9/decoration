@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+
+}
+
+
+.hello {
+  margin-top: 5vw;
+}

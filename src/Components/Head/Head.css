@@ -1,0 +1,134 @@
+.all-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 98.9vw;
+    height: 43vw;
+    background: linear-gradient(180deg, #FEF6B2 0%, #FFFCE3 100%);
+}
+
+.side {
+
+    position: fixed;
+    margin-left: 80vw;
+    z-index: 1;
+    width: 35vw;
+    height: 100vw;
+    transform: translateX(500px);
+    transition: 0.5s ease-in-out;
+    background-color: rgba(0, 0, 0, 0.466);
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    list-style-type: none;
+    width: 70%;
+
+}
+
+li {
+    text-align: right;
+    margin-right: 2vw;
+    cursor: pointer;
+    font-size: 1.5vw;
+    font-weight: 300;
+    line-height: 4vw;
+    color: #FFFFFF;
+}
+
+.close {
+    margin-left: 13vw;
+    width: 1.5vw;
+    margin-top: 2vw;
+}
+
+.nav-container {
+    display: flex;
+    width: 98.9vw;
+    margin-top: 1vw;
+    justify-content: space-around;
+}
+
+.log {
+    display: flex;
+    width: 204.29px;
+}
+
+.bar {
+    display: flex;
+    width: 2vw;
+}
+
+.Text-container {
+    display: flex;
+    width: 57.5vw;
+    margin-top: 4vw;
+    margin-left: 2vw;
+    height: 533px;
+    justify-content: space-around;
+}
+
+.Text-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    width: 361px;
+    height: 136px;
+    left: 0px;
+    top: 0px;
+    font-family: DM Serif Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 66px;
+    line-height: 68px;
+    text-align: left;
+    letter-spacing: 0.01em;
+    color: #20202B;
+}
+
+.main2 {
+    width: 340px;
+    height: 104px;
+    left: 0px;
+    top: 170px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: 2vw;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: left;
+    letter-spacing: 0.109091px;
+    color: #2F2F2F;
+}
+
+.bn {
+    width: 208px;
+    height: 45px;
+    left: 0px;
+    top: 323px;
+    text-decoration: none;
+    background: #131255;
+    border-radius: 6px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.109091px;
+    color: #FFFFFF;
+}
+
+.Text-right {
+    display: flex;
+}
+
+.picture {
+    width: 30vw;
+    height: 533px;
+}

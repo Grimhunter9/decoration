@@ -1,0 +1,86 @@
+.Foot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 244px;
+    background: #2F2F2F
+}
+
+.foot-container {
+    display: flex;
+    width: 55.5vw;
+    justify-content: space-between;
+}
+
+
+
+.foot-logo1 {
+    width: 1.5vw;
+    height: auto;
+}
+
+.foot-logo2 {
+    width: 8vw;
+    height: auto;
+    margin-left: 0.8vw;
+}
+
+.t-container {
+    text-align: left;
+}
+
+.foot1 {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    margin-top: 2vw;
+    line-height: 18px;
+    letter-spacing: 0.109091px;
+    color: #FFFFFF;
+}
+
+.foot2 {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    margin-top: 1vw;
+    line-height: 18px;
+    letter-spacing: 0.109091px;
+    color: #FFFFFF;
+}
+
+.foot3 {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    margin-top: -1vw;
+    line-height: 18px;
+    letter-spacing: 0.109091px;
+    color: #FFFFFF;
+}
+
+.foot4 {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.109091px;
+    color: #FFF493;
+}
+
+.app {
+    width:10vw;
+    height: auto;
+    left: 0.8px;
+    top: 0px;
+    
+}
+
+.google{
+    margin-top: 3vw;
+
+}
